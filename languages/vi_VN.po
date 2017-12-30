@@ -1,0 +1,1409 @@
+# Copyright (C) 2012 the WordPress team
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Expertrans\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-03-11 22:44+0700\n"
+"PO-Revision-Date: 2013-03-11 22:44+0700\n"
+"Last-Translator: Son Dat Giang <giangsondat@gmail.com>\n"
+"Language-Team: EXPERTRANS <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __my\n"
+"X-Poedit-Basepath: D:\\workspace-php\\expertrans\\wp-content\\themes"
+"\\expertrans\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-SearchPath-0: D:\\workspace-php\\expertrans\\wp-content\\themes"
+"\\expertrans\\functions\n"
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:52
+msgid "Website Email"
+msgstr "Website Email"
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:96
+msgid "Child"
+msgstr "Trẻ em"
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:97
+msgid "Teen"
+msgstr "Thiếu niên"
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:98
+msgid "Young Adult"
+msgstr "Thanh niên"
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:99
+msgid "Middle Aged"
+msgstr "Trung niên"
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:100
+msgid "Senior"
+msgstr "Cao tuổi"
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:114
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:564
+msgid "Conference"
+msgstr "Cao tuổi"
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:115
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:565
+msgid "Deposition"
+msgstr "Cung khai"
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:116
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:566
+msgid "Document Review"
+msgstr "Khảo sát tài liệu"
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:117
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:567
+msgid "Hearing"
+msgstr "Nghe dịch"
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:118
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:568
+msgid "Meeting"
+msgstr "Gặp mặt"
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:119
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:196
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:569
+msgid "Telephone"
+msgstr "Điện thoại"
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:120
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:570
+msgid "Trial"
+msgstr "Tố tụng"
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:121
+msgid "Training"
+msgstr ""
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:122
+msgid "Cabin / Parallel"
+msgstr ""
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:123
+msgid "Market Survey"
+msgstr ""
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:124
+msgid "In Factory"
+msgstr ""
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:127
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:157
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:346
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:571
+msgid "Other"
+msgstr "Khác"
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:150
+msgid "Returning Customers"
+msgstr ""
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:151
+#, fuzzy
+msgid "Website"
+msgstr "Website Email"
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:152
+msgid "Google"
+msgstr ""
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:153
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:604
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:651
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:844
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:1499
+#, fuzzy
+msgid "Email"
+msgstr "Thư điện tử"
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:154
+msgid "Friends"
+msgstr ""
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:155
+msgid "Newspaper/poster"
+msgstr ""
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:156
+#, fuzzy
+msgid "1080 Podcast"
+msgstr "Phát sóng"
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:170
+msgid "Both"
+msgstr "Cả 2"
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:171
+msgid "Male"
+msgstr "Nam"
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:172
+msgid "Female"
+msgstr "Nữ"
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:185
+msgid "Audiobooks"
+msgstr "Sách tiếng"
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:186
+msgid "Business"
+msgstr "Kinh doanh"
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:187
+msgid "Cartoons"
+msgstr "Hoạt hình"
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:188
+msgid "Documentaries"
+msgstr "Tài liệu"
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:189
+msgid "Educational"
+msgstr "Giáo dục"
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:190
+msgid "Internet"
+msgstr "Internet"
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:191
+msgid "Jingles"
+msgstr "Thơ vần"
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:192
+msgid "Movie Trailers"
+msgstr "Trailer phim"
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:193
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:432
+msgid "Music"
+msgstr "Nhạc"
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:194
+msgid "Podcasting"
+msgstr "Phát sóng"
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:195
+msgid "Radio"
+msgstr "Radio"
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:197
+msgid "Television"
+msgstr "Truyền hình"
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:198
+msgid "Videogames"
+msgstr "Videogames"
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:232
+#, fuzzy
+msgid "Translate"
+msgstr "Dịch thuật"
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:233
+#, fuzzy
+msgid "Translate and Edit"
+msgstr "Dịch thuật"
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:234
+msgid "Translate + Edit + Proofread"
+msgstr ""
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:235
+msgid "Translate + Edit + Proofread by Native Speaker"
+msgstr ""
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:336
+msgid "Art/Literary"
+msgstr ""
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:337
+msgid "Bus/Financial"
+msgstr ""
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:338
+#, fuzzy
+msgid "Law/Patents"
+msgstr "Bằng sáng chế"
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:339
+#, fuzzy
+msgid "Marketing"
+msgstr "Gặp mặt"
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:340
+#, fuzzy
+msgid "Medical"
+msgstr "Thiết bị y tế"
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:341
+msgid "Science"
+msgstr ""
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:342
+#, fuzzy
+msgid "Social Sciences"
+msgstr "Y tế"
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:343
+msgid "Tech/Engineering"
+msgstr ""
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:348
+#, fuzzy
+msgid "Accounting"
+msgstr "Tài chính - Kế toán"
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:349
+#, fuzzy
+msgid "Advertising / Public Relations"
+msgstr "Quảng cáo tiếp thị"
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:350
+msgid "Aerospace / Aviation / Space"
+msgstr ""
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:351
+msgid "Agriculture"
+msgstr ""
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:352
+msgid "Livestock / Animal Husbandry"
+msgstr ""
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:353
+msgid "Anthropology"
+msgstr ""
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:354
+msgid "Archaeology"
+msgstr ""
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:355
+msgid "Architecture"
+msgstr ""
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:356
+msgid "Art, Arts & Crafts, Painting"
+msgstr ""
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:357
+msgid "Astronomy & Space"
+msgstr ""
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:358
+msgid "Finance (general)"
+msgstr ""
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:359
+msgid "Automation & Robotics"
+msgstr ""
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:360
+msgid "Automotive / Cars & Trucks"
+msgstr ""
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:361
+msgid "Biology (-tech,-chem,micro-)"
+msgstr ""
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:362
+msgid "Botany"
+msgstr ""
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:363
+msgid "Construction / Civil Engineering"
+msgstr ""
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:364
+msgid "Business/Commerce (general)"
+msgstr ""
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:365
+msgid "Materials (Plastics, Ceramics, etc.)"
+msgstr ""
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:366
+msgid "Certificates, Diplomas, Licenses, CVs"
+msgstr ""
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:367
+msgid "Chemistry"
+msgstr ""
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:368
+msgid "Chem Sci/Eng"
+msgstr ""
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:369
+msgid "Poetry & Literature"
+msgstr ""
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:370
+msgid "Cinema, Film, TV, Drama"
+msgstr ""
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:371
+msgid "Textiles / Clothing / Fashion"
+msgstr ""
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:372
+msgid "Telecom(munications)"
+msgstr ""
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:373
+msgid "Computers (general)"
+msgstr ""
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:374
+msgid "Computers: Hardware"
+msgstr ""
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:375
+msgid "Computers: Software"
+msgstr ""
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:376
+msgid "Computers: Systems, Networks"
+msgstr ""
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:377
+#, fuzzy
+msgid "Law: Contract(s)"
+msgstr "Hợp đồng pháp lý"
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:378
+msgid "Cooking / Culinary"
+msgstr ""
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:379
+msgid "Cosmetics, Beauty"
+msgstr ""
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:380
+#, fuzzy
+msgid "Medical: Dentistry"
+msgstr "Thiết bị y tế"
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:381
+msgid "Media / Multimedia"
+msgstr ""
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:382
+msgid "Economics"
+msgstr ""
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:383
+#, fuzzy
+msgid "Education / Pedagogy"
+msgstr "Truyền thông giáo dục"
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:384
+msgid "Electronics / Elect Eng"
+msgstr ""
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:385
+msgid "Energy / Power Generation"
+msgstr ""
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:386
+msgid "Engineering (general)"
+msgstr ""
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:387
+msgid "Engineering: Industrial"
+msgstr ""
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:388
+msgid "Mechanics / Mech Engineering"
+msgstr ""
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:389
+msgid "Nuclear Eng/Sci"
+msgstr ""
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:390
+msgid "Environment & Ecology"
+msgstr ""
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:391
+msgid "Esoteric practices"
+msgstr ""
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:392
+msgid "Fisheries"
+msgstr ""
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:393
+msgid "Folklore"
+msgstr ""
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:394
+msgid "Food & Dairy"
+msgstr ""
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:395
+msgid "Forestry / Wood / Timber"
+msgstr ""
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:396
+msgid "Furniture / Household Appliances"
+msgstr ""
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:397
+msgid "Games / Video Games / Gaming / Casino"
+msgstr ""
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:398
+msgid "Mining & Minerals / Gems"
+msgstr ""
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:399
+msgid "Genealogy"
+msgstr ""
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:400
+msgid "General / Conversation / Greetings / Letters"
+msgstr ""
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:401
+msgid "Genetics"
+msgstr ""
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:402
+msgid "Geography"
+msgstr ""
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:403
+msgid "Geology"
+msgstr ""
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:404
+msgid "Government / Politics"
+msgstr ""
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:405
+msgid "Photography/Imaging (& Graphic Arts)"
+msgstr ""
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:406
+msgid "Medical: Health Care"
+msgstr ""
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:407
+msgid "History"
+msgstr ""
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:408
+msgid "Tourism & Travel"
+msgstr ""
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:409
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:519
+msgid "Human Resources"
+msgstr "Nhân sự"
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:410
+msgid "Idioms / Maxims / Sayings"
+msgstr ""
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:411
+#, fuzzy
+msgid "Insurance"
+msgstr "Tài chính/bảo hiểm"
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:412
+msgid "International Org/Dev/Coop"
+msgstr ""
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:412
+msgid "Internet, e-Commerce"
+msgstr ""
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:413
+msgid "Investment / Securities"
+msgstr ""
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:414
+msgid "Metallurgy / Casting"
+msgstr ""
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:414
+msgid "IT (Information Technology)"
+msgstr ""
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:414
+msgid "Journalism"
+msgstr ""
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:415
+msgid "Real Estate"
+msgstr ""
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:416
+msgid "Law (general)"
+msgstr ""
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:417
+msgid "Law: Taxation & Customs"
+msgstr ""
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:418
+#, fuzzy
+msgid "Linguistics"
+msgstr "Đơn tuyển dụng"
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:419
+msgid "Transport / Transportation / Shipping"
+msgstr ""
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:420
+msgid "Management"
+msgstr ""
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:421
+msgid "Manufacturing"
+msgstr ""
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:422
+msgid "Ships, Sailing, Maritime"
+msgstr ""
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:423
+msgid "Marketing / Market Research"
+msgstr ""
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:424
+msgid "Mathematics & Statistics"
+msgstr ""
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:425
+#, fuzzy
+msgid "Medical (general)"
+msgstr "Thiết bị y tế"
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:426
+msgid "Medical: Cardiology"
+msgstr ""
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:427
+#, fuzzy
+msgid "Medical: Instruments"
+msgstr "Tài chính - Đầu tư"
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:428
+#, fuzzy
+msgid "Medical: Pharmaceuticals"
+msgstr "Thiết bị y tế"
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:429
+msgid "Meteorology"
+msgstr ""
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:430
+msgid "Metrology"
+msgstr ""
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:431
+msgid "Military / Defense"
+msgstr ""
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:433
+msgid "Names (personal, company)"
+msgstr ""
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:434
+msgid "Nutrition"
+msgstr ""
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:434
+msgid "Petroleum Eng/Sci"
+msgstr ""
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:435
+msgid "Paper / Paper Manufacturing"
+msgstr ""
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:435
+#, fuzzy
+msgid "Patents"
+msgstr "Bằng sáng chế"
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:435
+msgid "Law: Patents, Trademarks, Copyright"
+msgstr ""
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:436
+msgid "Philosophy"
+msgstr ""
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:437
+msgid "Physics"
+msgstr ""
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:438
+msgid "Printing & Publishing"
+msgstr ""
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:439
+msgid "Psychology"
+msgstr ""
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:440
+msgid "Religion"
+msgstr ""
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:441
+msgid "Retail"
+msgstr ""
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:442
+msgid "Safety"
+msgstr ""
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:443
+msgid "SAP"
+msgstr ""
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:444
+msgid "Science (general)"
+msgstr ""
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:445
+msgid "Slang"
+msgstr ""
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:446
+msgid "Social Science, Sociology, Ethics, etc."
+msgstr ""
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:447
+msgid "Sports / Fitness / Recreation"
+msgstr ""
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:448
+msgid "Surveying"
+msgstr ""
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:449
+msgid "Wine / Oenology / Viticulture"
+msgstr ""
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:450
+msgid "Zoology"
+msgstr ""
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:497
+msgid "E-banking"
+msgstr ""
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:498
+msgid "Cash"
+msgstr ""
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:499
+msgid "Paypal"
+msgstr ""
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:514
+msgid "Advertising/Marketing"
+msgstr "Quảng cáo tiếp thị"
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:515
+msgid "Consumer Products - Apparel"
+msgstr "Sản xuất may mặc"
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:516
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:1283
+msgid "Education"
+msgstr "Giáo dục"
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:517
+msgid "Educational Media"
+msgstr "Truyền thông giáo dục"
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:518
+msgid "Hospitality/Restaurants"
+msgstr "Bệnh viện/Nhà hàng"
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:520
+msgid "In language Copywriting"
+msgstr "Viết bài"
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:521
+msgid "Cultural Consultation"
+msgstr "Văn hóa"
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:522
+msgid "Legal - Contracts"
+msgstr "Hợp đồng pháp lý"
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:523
+msgid "Legal - Patents"
+msgstr "Bằng sáng chế"
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:524
+msgid "Patent/Intellectual Property"
+msgstr "Khoa học đời sống/y tế"
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:525
+msgid "Medical/Life Sciences"
+msgstr "Y tế"
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:526
+msgid "Medical Devices"
+msgstr "Thiết bị y tế"
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:527
+msgid "Technical"
+msgstr "Kỹ thuật"
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:528
+msgid "Financial - Accounting"
+msgstr "Tài chính - Kế toán"
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:529
+msgid "Financial - Investments"
+msgstr "Tài chính - Đầu tư"
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:530
+msgid "Financial - Insurance"
+msgstr "Tài chính/bảo hiểm"
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:531
+msgid "Financial - Corporate Communications"
+msgstr "Tài chính - Truyền thông doanh nghiệp"
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:545
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:688
+msgid "Translation"
+msgstr "Dịch thuật"
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:546
+msgid "Proofreading/Editing"
+msgstr "Hiệu đính/Biên tập"
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:547
+msgid "Dubbing, Narrator, Subtitling"
+msgstr "Thuyết minh/ lồng tiếng, phụ đề"
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:548
+msgid "Interpreting"
+msgstr "Phiên dịch"
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:549
+msgid "Transcriptions"
+msgstr "Chép dịch"
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:550
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:691
+msgid "Others"
+msgstr "Khác"
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:585
+msgid "Personal Info"
+msgstr "Thông tin cá nhân"
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:588
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:633
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:1495
+#, fuzzy
+msgid "Name"
+msgstr "Tên"
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:589
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:634
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:1496
+msgid "Name is required"
+msgstr "Tên là mục bắt buộc"
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:592
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:637
+msgid "Birthday"
+msgstr "Ngày sinh"
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:596
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:642
+#, fuzzy
+msgid "Address"
+msgstr "Địa chỉ"
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:600
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:646
+#, fuzzy
+msgid "Phone"
+msgstr "Điện thoại"
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:601
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:647
+msgid "Phone is required"
+msgstr "Số điện thoại là bắt buộc"
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:605
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:652
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:1500
+#, fuzzy
+msgid "Email is required"
+msgstr "Cần có địa chỉ thư điện tử hợp lệ"
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:608
+msgid "Zip code"
+msgstr "Mã bưu điện"
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:612
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:655
+msgid "City"
+msgstr "Thành phố"
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:613
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:656
+msgid "City is required"
+msgstr "Thành phố là bắt buộc"
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:616
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:665
+msgid "Country"
+msgstr "Quốc gia"
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:617
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:666
+msgid "Country is required"
+msgstr "Quốc gia là mục bắt buộc"
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:618
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:667
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:697
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:786
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:807
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:824
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:862
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:869
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:877
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:956
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:963
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:970
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:977
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:984
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:1128
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:1142
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:1152
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:1159
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:1167
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:1174
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:1200
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:1320
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:1327
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:1334
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:1341
+msgid "Please Select"
+msgstr "Hãy Chọn"
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:629
+msgid "Customer Info"
+msgstr ""
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:660
+msgid "Zip/Postal"
+msgstr ""
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:679
+msgid "Quick Quote"
+msgstr "Báo giá nhanh"
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:689
+msgid "Interpretation"
+msgstr "Phiên dịch"
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:690
+msgid "Voice-overs"
+msgstr "Thu âm lồng tiếng"
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:695
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:784
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:1126
+msgid "Source Language"
+msgstr "Ngôn ngữ nguồn"
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:702
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:791
+msgid "Target Languages"
+msgstr "Ngôn ngữ đích"
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:710
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:895
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:1011
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:1070
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:1224
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:1430
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:1505
+#, fuzzy
+msgid "Submit"
+msgstr "Gửi"
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:766
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:931
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:1048
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:1106
+msgid ""
+"Thank you! Your quote has been sent to us. Expertrans will give you a "
+"feedback soon!"
+msgstr ""
+"Cảm ơn bạn! Yêu cầu của bạn đã được gửi đi. ExperTrans sẽ sớm gửi phản hồi "
+"cho bạn!"
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:767
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:932
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:1049
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:1107
+msgid "Click here to make another quote"
+msgstr "Click vào đây để gửi báo giá mới."
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:778
+msgid "Quote Request - Translation"
+msgstr "Yêu cầu báo giá - Phiên dịch"
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:781
+msgid "Get your free translation quotation"
+msgstr "Nhận báo giá miễn phí"
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:785
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:1127
+msgid "Source Language is required"
+msgstr "Bạn cần điền ngôn ngữ nguồn"
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:793
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:1134
+msgid "Target Languages is required"
+msgstr "Bạn cần điền ngôn ngữ đích"
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:796
+msgid "Hold Ctrl to choose multiple"
+msgstr ""
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:801
+#, fuzzy
+msgid "Translation package"
+msgstr "Loại hình dịch"
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:805
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:1150
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:1379
+msgid "Expertise"
+msgstr "Chuyên ngành"
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:813
+msgid "Word count"
+msgstr ""
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:817
+msgid "Page count"
+msgstr ""
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:822
+#, fuzzy
+msgid "Translation format"
+msgstr "Dịch thuật"
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:830
+#, fuzzy
+msgid "Translation purpose"
+msgstr "Loại hình dịch"
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:834
+msgid "How many notarized copies (if needed)"
+msgstr ""
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:839
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:1001
+msgid "Deadline"
+msgstr "Hạn cuối"
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:843
+msgid "Delivery over"
+msgstr ""
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:845
+msgid "Directly"
+msgstr ""
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:849
+msgid "Attachments"
+msgstr ""
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:855
+msgid "Delivery address"
+msgstr ""
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:860
+#, fuzzy
+msgid "Payment currency"
+msgstr "Đơn vị tiền tệ"
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:861
+#, fuzzy
+msgid "Payment currency is required"
+msgstr "Đơn vị tiền tệ là bắt buộc"
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:867
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:1198
+msgid "How do you know us"
+msgstr ""
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:875
+#, fuzzy
+msgid "Payment method"
+msgstr "Đơn vị tiền tệ"
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:876
+#, fuzzy
+msgid "Payment method is required"
+msgstr "Đơn vị tiền tệ là bắt buộc"
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:882
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:1205
+msgid "Which Google keywords/Who tell you?"
+msgstr ""
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:889
+#, fuzzy
+msgid "Order or comment/further inquiry"
+msgstr "Yêu cầu hoặc bình luận"
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:943
+msgid "Quote Request - Voice-overs"
+msgstr "Yêu cầu báo giá - Thua âm, lồng tiếng"
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:947
+msgid "Describe what and who you need"
+msgstr "Cho chúng tôi biết bạn cần gì và cần ai"
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:950
+msgid "Title of Project"
+msgstr "Tên dự án"
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:951
+msgid "Title of Project is required"
+msgstr "Tên dự án là mục bắt buộc"
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:954
+msgid "Category"
+msgstr "Danh mục"
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:955
+msgid "Category is required"
+msgstr "Danh mục là mục bắt buộc"
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:961
+#, fuzzy
+msgid "Language"
+msgstr "Ngôn ngữ"
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:962
+msgid "Language is required"
+msgstr "Ngôn ngữ là mục bắt buộc"
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:968
+msgid "Age range"
+msgstr "Độ tuổi"
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:969
+msgid "Age range is required"
+msgstr "Bạn cần điền độ tuổi"
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:975
+msgid "Gender"
+msgstr "Giới tính"
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:976
+msgid "Gender is required"
+msgstr "Bạn cần điền giới tính"
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:982
+msgid "Budget range"
+msgstr "Ước lượng số tiền"
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:983
+msgid "Budget range is required"
+msgstr "Bạn cần phải ước lượng chi phí"
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:990
+msgid "Voice ID"
+msgstr "Mã giọng"
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:991
+msgid "Voice ID is required"
+msgstr "Bạn cần lựa chọn mã giọng"
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:997
+msgid "See the Voice Gallery here"
+msgstr "Xem Thư viện giọng đọc tại đây"
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:1005
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:1064
+msgid "Order or comment"
+msgstr "Yêu cầu hoặc bình luận"
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:1060
+msgid "Quote Request - Others"
+msgstr "Yêu cầu báo giá khác"
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:1118
+msgid "Quote Request - Interpretation"
+msgstr "Yêu cầu báo giá phiên dịch"
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:1122
+#, fuzzy
+msgid "Project Info"
+msgstr "Thông tin dự án"
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:1133
+#, fuzzy
+msgid "Target language"
+msgstr "Ngôn ngữ đích"
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:1140
+#, fuzzy
+msgid "Interpreters amount needed"
+msgstr "Phiên dịch"
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:1157
+msgid "Type of Interpretation"
+msgstr "Loại hình phiên dịch"
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:1158
+msgid "Type of Interpretation is required"
+msgstr "Bạn cần điền loại hình phiên dịch"
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:1165
+#, fuzzy
+msgid "Start Time"
+msgstr "Thời gian bắt đầu"
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:1172
+msgid "Estimated End Time"
+msgstr "Khoảng thời gian kết thúc"
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:1180
+#, fuzzy
+msgid "Start Date"
+msgstr "Thời gian bắt đầu"
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:1184
+#, fuzzy
+msgid "End Date"
+msgstr "Ngày tháng"
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:1189
+#, fuzzy
+msgid "Target audience"
+msgstr "Ngôn ngữ đích"
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:1193
+msgid "Amount of audience"
+msgstr ""
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:1210
+msgid "Reference document (if availabe)"
+msgstr ""
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:1218
+#, fuzzy
+msgid "Order or comment/futher inquiry"
+msgstr "Yêu cầu hoặc bình luận"
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:1260
+msgid ""
+"Thank you! Your application has been sent to us. Expertrans will give you a "
+"feedback soon!"
+msgstr ""
+"Cảm ơn bạn! Yêu cầu của bạn đã được gửi đi. ExperTrans sẽ sớm gửi phản hồi "
+"cho bạn!"
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:1261
+msgid "Click here to make another application"
+msgstr "Click vào đây để gửi đơn mới."
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:1273
+msgid "Linguist Application"
+msgstr "Đơn tuyển dụng"
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:1278
+msgid "Skype ID"
+msgstr "Nick Skype"
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:1288
+msgid "Name of Institution"
+msgstr "Tên trường"
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:1291
+msgid "Degree/Certificate"
+msgstr "Bằng cấp/Chứng chỉ"
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:1294
+msgid "Date of Attendance"
+msgstr "Ngày tháng theo học"
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:1315
+msgid "Language Spoken"
+msgstr "Ngôn ngữ sử dụng"
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:1318
+msgid "1st Language"
+msgstr "Ngôn ngữ 1"
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:1325
+msgid "2nd Language"
+msgstr "Ngôn ngữ 2"
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:1332
+msgid "3rd Language"
+msgstr "Ngôn ngữ 3"
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:1339
+msgid "4th Language"
+msgstr "Ngôn ngữ 4"
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:1347
+msgid "Experiences"
+msgstr "Kinh nghiệm"
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:1352
+msgid "Name of Employer"
+msgstr "Công ty"
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:1355
+msgid "Job Title"
+msgstr "Vị trí"
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:1358
+msgid "Duration of Service"
+msgstr "Thời gian làm việc"
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:1383
+#, fuzzy
+msgid "Fields"
+msgstr "Trường tuỳ biến"
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:1386
+msgid "Services Provided"
+msgstr "Dịch vụ cung cấp"
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:1395
+msgid "Rate (USD)"
+msgstr "Mức giá (USD)"
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:1396
+msgid "Per word"
+msgstr "Mỗi từ"
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:1397
+msgid "Per hour"
+msgstr "Mỗi giờ"
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:1398
+msgid "Per day"
+msgstr "Mỗi ngày"
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:1402
+msgid "Resume"
+msgstr "CV"
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:1406
+msgid "Please upload your resume here"
+msgstr "Bạn hãy tải lên CV của bạn ở đây"
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:1408
+msgid "Resume document is required"
+msgstr ""
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:1412
+msgid "Please upload your translation text sample (for translators)"
+msgstr ""
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:1417
+msgid "Please upload your voice sample (for voice-overs freelancers)"
+msgstr ""
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:1422
+msgid "Cover letter"
+msgstr "Thư giới thiệu"
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:1423
+msgid ""
+"You can use the text area for a cover letter and any supplementary "
+"information you would like to provide about your career goals, availability, "
+"best times to contact you, etc."
+msgstr "Bạn có thể điền thêm đơn xin việc hoặc ghi chú tại đây."
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:1474
+#, fuzzy
+msgid ""
+"Thank you! Your message has been sent to us. Expertrans will give you a "
+"feedback soon!"
+msgstr ""
+"Cảm ơn bạn! Yêu cầu của bạn đã được gửi đi. ExperTrans sẽ sớm gửi phản hồi "
+"cho bạn!"
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:1475
+msgid "Click here to make another message"
+msgstr "Click here to make another message"
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:1485
+msgid "Contact Message"
+msgstr "Nội dung liên hệ"
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:1488
+msgid "Please leave a message"
+msgstr "Xin vui lòng để lại tin nhắn"
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:1491
+msgid "Message"
+msgstr "Tin nhắn"
+
+#: D:\workspace-php\expertrans\wp-content\themes\expertrans\functions/quotes.php:1492
+msgid "Message is required"
+msgstr "Bạn phải điền nội dung tin nhắn."
+
+#~ msgid "Revise Required"
+#~ msgstr "Yêu cầu hiệu đính"
+
+#~ msgid "Yes"
+#~ msgstr "Có"
+
+#, fuzzy
+#~ msgid "No"
+#~ msgstr "Không"
+
+#~ msgid "No translation, just revise only"
+#~ msgstr "Không dịch, chỉ hiệu đính"
+
+#~ msgid "Conventional materials"
+#~ msgstr "Tài liệu phổ thông"
+
+#~ msgid "Specialized materials"
+#~ msgstr "Tài liệu chuyên ngành"
+
+#~ msgid "Word Count (if known)"
+#~ msgstr "Số từ (nếu biết)"
+
+#~ msgid "or Upload your documents"
+#~ msgstr "hoặc Tải lên tài liệu"
+
+#~ msgid "Other requirements"
+#~ msgstr "Các yêu cầu khác"
+
+#~ msgid "Location"
+#~ msgstr "Vị trí"
+
+#~ msgid "Subject Matter"
+#~ msgstr "Chủ đề"
+
+#, fuzzy
+#~ msgid "Select your desired language"
+#~ msgstr "Chọn ngôn ngữ ưa thích"

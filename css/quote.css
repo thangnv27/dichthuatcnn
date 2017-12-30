@@ -1,0 +1,188 @@
+@CHARSET "UTF-8";
+
+.content-quote ul, 
+.content-quote ul li, 
+.content .content-quote ul, 
+.content .content-quote ul li{
+	list-style: none !important; 
+	margin: 0; padding: 0;
+}
+.content-quote{line-height: 25px}
+.content-quote strong{color: #006797; text-transform: uppercase; padding-top: 20px;}
+.content-quote form.fm-form{
+	background: url(images/b-gach-xoc.png);
+	width: 100%;
+	clear: both;
+	padding: 15px 0 45px 0;
+	margin-bottom: 45px;
+}
+
+.content-quote form.fm-form div.submit{clear: both; height: 15px;}
+.content-quote form.fm-form ul{
+	margin: 0 15px;
+	clear: both;
+	display: block; background: #fff url(images/coner.png) top left no-repeat;
+	float: left;
+	list-style: none;
+	padding-top: 20px;
+}
+.content-quote form.fm-form ul li{
+	width: 280px; float: left;
+	padding-left: 40px; 
+}
+.content-quote .note{width: 620px !important; clear: both !important; margin-bottom: 0 !important;}
+.content-quote form.fm-form ul li.after{clear: both}
+.content-quote form.fm-form ul li input,
+	.content-quote form.fm-form ul li select,
+	.content-quote form.fm-form ul li textarea{
+		border: 1px solid #aaa;
+		width: 200px; height: 28px;
+	}
+.content-quote form.fm-form ul li textarea{
+	height: 50px;
+}
+.content-quote form.fm-form ul li.radio input{
+	width: auto; height: auto;
+}
+.content-quote form.fm-form input.submit{
+	/*background: url(images/sb.png) no-repeat;*/ width: 110px; height: 30px; border: none;
+	background: #c4282e; font-weight: bold;
+	clear: right; float: right; color: #fff; margin-right: 15px;
+	margin-top: 15px; 
+}
+.content-quote form.fm-form ul li label{
+	font-weight: bold; display: block;
+}
+.content-quote .note label{
+	color: #c4282e;
+	font-style: italic;
+	padding: 15px 0; font-weight: bold;
+	clear: left;
+}
+.content-quote form.fm-form ul li#fm-item-source_language select{
+	width: 90%;
+}
+.content-quote form.fm-form ul li#fm-item-target_languages select,
+.content-quote form.fm-form ul li#fm-item-target_languages-interpretation select{
+	width: 90%; height: 100px;
+}
+
+.content-quote form.fm-form li#fm-item-other_requirements,
+	.content-quote form.fm-form li#fm-item-order_or_comment{width: 620px}
+.content-quote form.fm-form li#fm-item-other_requirements textarea,
+	.content-quote form.fm-form li#fm-item-order_or_comment textarea,
+	.content-quote form.fm-form li#fm-item-note-cover_letter textarea{
+	width: 585px; height: 100px;
+}
+.content-quote form.fm-form li#fm-item-voice-id {width: 350px}
+.content-quote form.fm-form li#fm-item-voice-id input{width: 340px}
+.content-quote form.fm-form li#fm-item-voice-id-link{ width: 200px}
+.content-quote form.fm-form li#fm-item-voice-id-link a{line-height: 34px;color: #016596;}
+.content-quote form.fm-form li#fm-item-voice-id-link a:hover{text-decoration: underline}
+	
+.content-quote .cleft{
+	clear: left !important;
+}
+.content-quote .cboth {
+	clear: both !important;
+}
+.content-quote .fullwidth{
+	width: 620px !important;
+}
+.content-quote textarea{
+	height: 50px;
+}
+.content-quote .fullwidth textarea{
+	width: 570px !important;
+}
+
+/*.content-quote form.fm-form li#fm-item-voice-id 
+.content-quote form.fm-form li#fm-item-other_requirements,
+	.content-quote form.fm-form li#fm-item-order_or_comment,
+.content-quote form.fm-form li#fm-item-revise_required,
+.content-quote form.fm-form li#fm-item-word_count,
+.content-quote form.fm-form li#fm-item-language,
+.content-quote form.fm-form li#fm-item-deadline,
+	.content-quote form.fm-form li#fm-item-voice-id,
+	.content-quote form.fm-form li#fm-item-source_language,
+	.content-quote form.fm-form li#fm-item-cover_letter,
+	.content-quote form.fm-form li#fm-item-city,
+	li#fm-item-title_of_project,
+	li#fm-item-language,
+	li#fm-item-gender,
+	li#fm-item-deadline-voice-overs,
+	li#fm-item-date,
+	li#fm-item-estimated_end_time,
+	li#fm-item-subject_matter,
+	li#fm-item-source_language-interpretation,
+	li#fm-item-skype_id,
+	li#fm-item-file_upload_apply1,
+	li#fm-item-file_upload_apply3
+{margin-bottom: 30px}*/
+
+.content-quote .no1{
+	background: url(images/halfround/1.png) -20px 5px no-repeat;
+}
+.content-quote .no2{
+	background: url(images/halfround/2.png) -20px 5px no-repeat;
+}
+.content-quote .no3{
+	background: url(images/halfround/3.png) -20px 5px no-repeat;
+}
+.content-quote .no4{
+	background: url(images/halfround/4.png) -20px 5px no-repeat;
+}
+.content-quote .no5{
+	background: url(images/halfround/5.png) -20px 5px no-repeat;
+}
+.content-quote .no6{
+	background: url(images/halfround/6.png) -20px 5px no-repeat;
+}
+.content-quote .no7{
+	background: url(images/halfround/7.png) -20px 5px no-repeat;
+}
+.content-quote .no8{
+	background: url(images/halfround/8.png) -20px 5px no-repeat;
+}
+.content-quote .no9{
+	background: url(images/halfround/9.png) -20px 5px no-repeat;
+}
+.content-quote .no-note{
+	background-position: -20px 5px;
+	margin-top: 15px;
+}
+.content-quote li.input{
+	margin-bottom: 10px !important;
+}
+
+.content-quote form.fm-form li#fm-item-target_languages,
+.content-quote form.fm-form li#fm-item-translation_type,
+.content-quote form.fm-form li#fm-item-translation_type,
+	.content-quote form.fm-form li#fm-item-translation_type,
+	.content-quote form.fm-form li#fm-item-translation_type,
+	.content-quote form.fm-form li#fm-item-translation_type
+{
+	background: url(images/arrow/right.png) no-repeat;
+}
+
+.content-quote .iconright{
+	background: url(images/arrow/right.png) no-repeat;
+}
+
+/* END quote */
+
+
+/****************************************/
+/* LINGUIST APPLICATION */
+.content-quote form.fm-form li.s3-blocks{clear: left; width: 610px;}
+.content-quote form.fm-form li.s3-blocks label,
+.content-quote form.fm-form li.s3-blocks input{display: block; width: 30%; float: left}
+.content-quote form.fm-form li.s3-blocks input{width: 25%; margin-right: 5%;margin-bottom: 4px;}
+.content-quote form.fm-form li.s3-blocks label{border: 1px solid #fff}
+.content-quote form.fm-form li.expertise-blocks{width: 610px; clear: left}
+.content-quote form.fm-form ul li label.checkbox{width: 49%; font-weight: normal; float: left}
+.content-quote form.fm-form li label.checkbox input{width: auto; height: auto; margin-right: 5px;}
+#interpreting-checkboxes{border: 1px solid #eee; padding: 5px 0; clear: both;}
+.content-quote form.fm-form li.expertise-blocks div.input{width: 30%; float: left}
+.content-quote form.fm-form li.expertise-blocks input.rate{width: 100px; margin-left: 5px;}
+/****************************************/

@@ -1,0 +1,462 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WillPress\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-09-26 22:25+0700\n"
+"PO-Revision-Date: 2010-09-26 22:25+0700\n"
+"Last-Translator: \n"
+"Language-Team: ThemeTiger <info@themetiger.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: D:\\AppServ\\www\\TigerBlog\\wp-content\\themes\\WillPress\n"
+
+#: D:\AppServ\www\TigerBlog\wp-content\themes\WillPress/404.php:3
+msgid "Error 404 - Page Not Found"
+msgstr ""
+
+#: D:\AppServ\www\TigerBlog\wp-content\themes\WillPress/comments.php:44
+msgid "Leave a Reply"
+msgstr ""
+
+#: D:\AppServ\www\TigerBlog\wp-content\themes\WillPress/comments.php:58
+msgid "Logged in as"
+msgstr ""
+
+#: D:\AppServ\www\TigerBlog\wp-content\themes\WillPress/comments.php:58
+msgid "Log out"
+msgstr ""
+
+#: D:\AppServ\www\TigerBlog\wp-content\themes\WillPress/comments.php:63
+msgid "Name"
+msgstr ""
+
+#: D:\AppServ\www\TigerBlog\wp-content\themes\WillPress/comments.php:63
+#: D:\AppServ\www\TigerBlog\wp-content\themes\WillPress/comments.php:66
+msgid "(required)"
+msgstr ""
+
+#: D:\AppServ\www\TigerBlog\wp-content\themes\WillPress/comments.php:66
+msgid "E-mail"
+msgstr ""
+
+#: D:\AppServ\www\TigerBlog\wp-content\themes\WillPress/comments.php:66
+msgid "will not be publishe"
+msgstr ""
+
+#: D:\AppServ\www\TigerBlog\wp-content\themes\WillPress/comments.php:69
+msgid "Website"
+msgstr ""
+
+#: D:\AppServ\www\TigerBlog\wp-content\themes\WillPress/comments.php:77
+msgid "Submit Comment"
+msgstr ""
+
+#: D:\AppServ\www\TigerBlog\wp-content\themes\WillPress/featured.php:46
+#: D:\AppServ\www\TigerBlog\wp-content\themes\WillPress/single.php:9
+msgid "written by"
+msgstr ""
+
+#: D:\AppServ\www\TigerBlog\wp-content\themes\WillPress/featured.php:46
+#: D:\AppServ\www\TigerBlog\wp-content\themes\WillPress/single.php:9
+msgid "on"
+msgstr ""
+
+#: D:\AppServ\www\TigerBlog\wp-content\themes\WillPress/featured.php:46
+#: D:\AppServ\www\TigerBlog\wp-content\themes\WillPress/single.php:9
+msgid "F jS, Y"
+msgstr ""
+
+#: D:\AppServ\www\TigerBlog\wp-content\themes\WillPress/featured.php:47
+#: D:\AppServ\www\TigerBlog\wp-content\themes\WillPress/loop.php:30
+#: D:\AppServ\www\TigerBlog\wp-content\themes\WillPress/single.php:10
+msgid "No Comments"
+msgstr ""
+
+#: D:\AppServ\www\TigerBlog\wp-content\themes\WillPress/featured.php:47
+#: D:\AppServ\www\TigerBlog\wp-content\themes\WillPress/loop.php:30
+#: D:\AppServ\www\TigerBlog\wp-content\themes\WillPress/single.php:10
+msgid "1 Comment"
+msgstr ""
+
+#: D:\AppServ\www\TigerBlog\wp-content\themes\WillPress/featured.php:47
+#: D:\AppServ\www\TigerBlog\wp-content\themes\WillPress/loop.php:30
+#: D:\AppServ\www\TigerBlog\wp-content\themes\WillPress/single.php:10
+msgid "% Comments"
+msgstr ""
+
+#: D:\AppServ\www\TigerBlog\wp-content\themes\WillPress/featured.php:48
+msgid "Readmore"
+msgstr ""
+
+#: D:\AppServ\www\TigerBlog\wp-content\themes\WillPress/featured.php:61
+#: D:\AppServ\www\TigerBlog\wp-content\themes\WillPress/functions.php:656
+#: D:\AppServ\www\TigerBlog\wp-content\themes\WillPress/functions.php:683
+#: D:\AppServ\www\TigerBlog\wp-content\themes\WillPress/functions.php:684
+msgid "Recent Posts"
+msgstr ""
+
+#: D:\AppServ\www\TigerBlog\wp-content\themes\WillPress/functions.php:64
+msgid "English (default)"
+msgstr ""
+
+#: D:\AppServ\www\TigerBlog\wp-content\themes\WillPress/functions.php:95
+msgid "Logo Image"
+msgstr ""
+
+#: D:\AppServ\www\TigerBlog\wp-content\themes\WillPress/functions.php:96
+msgid "Enter the logo image full path. Leave it blank if you don't want to use logo image."
+msgstr ""
+
+#: D:\AppServ\www\TigerBlog\wp-content\themes\WillPress/functions.php:101
+msgid "Favicon"
+msgstr ""
+
+#: D:\AppServ\www\TigerBlog\wp-content\themes\WillPress/functions.php:102
+msgid "Enter the favicon full path. Leave it blank if you don't want to use favicon."
+msgstr ""
+
+#: D:\AppServ\www\TigerBlog\wp-content\themes\WillPress/functions.php:107
+msgid "Social Networks Enabled?"
+msgstr ""
+
+#: D:\AppServ\www\TigerBlog\wp-content\themes\WillPress/functions.php:108
+msgid "Uncheck if you do not want to show social networks at Sidebar."
+msgstr ""
+
+#: D:\AppServ\www\TigerBlog\wp-content\themes\WillPress/functions.php:113
+msgid "Show Right Tabber?"
+msgstr ""
+
+#: D:\AppServ\www\TigerBlog\wp-content\themes\WillPress/functions.php:114
+msgid "Uncheck if you do not want to show tabber at Sidebar."
+msgstr ""
+
+#: D:\AppServ\www\TigerBlog\wp-content\themes\WillPress/functions.php:119
+msgid "Featured Posts Enabled?"
+msgstr ""
+
+#: D:\AppServ\www\TigerBlog\wp-content\themes\WillPress/functions.php:120
+msgid "Uncheck if you do not want to show featured posts slideshow in homepage."
+msgstr ""
+
+#: D:\AppServ\www\TigerBlog\wp-content\themes\WillPress/functions.php:125
+msgid "Featured Posts Number"
+msgstr ""
+
+#: D:\AppServ\www\TigerBlog\wp-content\themes\WillPress/functions.php:126
+msgid "Number of Posts in Featured. Default is 5 posts"
+msgstr ""
+
+#: D:\AppServ\www\TigerBlog\wp-content\themes\WillPress/functions.php:132
+msgid "Featured Posts Categories"
+msgstr ""
+
+#: D:\AppServ\www\TigerBlog\wp-content\themes\WillPress/functions.php:133
+msgid "Last posts (default is 5) from the selected categories will be listed as featured in homepage."
+msgstr ""
+
+#: D:\AppServ\www\TigerBlog\wp-content\themes\WillPress/functions.php:139
+msgid "Hompage Categories"
+msgstr ""
+
+#: D:\AppServ\www\TigerBlog\wp-content\themes\WillPress/functions.php:140
+msgid "Categories from the selected categories will be listed in homepage."
+msgstr ""
+
+#: D:\AppServ\www\TigerBlog\wp-content\themes\WillPress/functions.php:146
+msgid "Top Banner (468x60 px)"
+msgstr ""
+
+#: D:\AppServ\www\TigerBlog\wp-content\themes\WillPress/functions.php:147
+msgid "Sidebar banner code. You may use any html code here, including your 468x60 Adsense code.)"
+msgstr ""
+
+#: D:\AppServ\www\TigerBlog\wp-content\themes\WillPress/functions.php:152
+msgid "Top Banner (200x200 px)"
+msgstr ""
+
+#: D:\AppServ\www\TigerBlog\wp-content\themes\WillPress/functions.php:153
+msgid "Sidebar banner code. You may use any html code here, including your 200x200 Adsense code.)"
+msgstr ""
+
+#: D:\AppServ\www\TigerBlog\wp-content\themes\WillPress/functions.php:158
+msgid "Right Banner (300x250 px)"
+msgstr ""
+
+#: D:\AppServ\www\TigerBlog\wp-content\themes\WillPress/functions.php:159
+msgid "Sidebar banner code. You may use any html code here, including your 300x250 Adsense code.)"
+msgstr ""
+
+#: D:\AppServ\www\TigerBlog\wp-content\themes\WillPress/functions.php:165
+msgid "Sidebar 125x125 px Ad"
+msgstr ""
+
+#: D:\AppServ\www\TigerBlog\wp-content\themes\WillPress/functions.php:166
+msgid "Add your 125x125 px ads here. You can add unlimited ads. Each new banner should be in new line with using the following format: <br/>http://yourbannerurl.com/banner.gif, http://theurl.com/to_link.html"
+msgstr ""
+
+#: D:\AppServ\www\TigerBlog\wp-content\themes\WillPress/functions.php:187
+msgid "Enter your FeedBurner ID here."
+msgstr ""
+
+#: D:\AppServ\www\TigerBlog\wp-content\themes\WillPress/functions.php:187
+msgid "Register"
+msgstr ""
+
+#: D:\AppServ\www\TigerBlog\wp-content\themes\WillPress/functions.php:199
+msgid "Show Video?"
+msgstr ""
+
+#: D:\AppServ\www\TigerBlog\wp-content\themes\WillPress/functions.php:200
+msgid "Show latest video on page. To display the video must have at least one post contains video"
+msgstr ""
+
+#: D:\AppServ\www\TigerBlog\wp-content\themes\WillPress/functions.php:206
+msgid "Head Script"
+msgstr ""
+
+#: D:\AppServ\www\TigerBlog\wp-content\themes\WillPress/functions.php:207
+msgid "The content of this box will be added immediately before &lt;/head&gt; tag. Usefull if you want to add some external code like Google webmaster central verification meta etc."
+msgstr ""
+
+#: D:\AppServ\www\TigerBlog\wp-content\themes\WillPress/functions.php:212
+msgid "Footer Script"
+msgstr ""
+
+#: D:\AppServ\www\TigerBlog\wp-content\themes\WillPress/functions.php:213
+msgid "The content of this box will be added immediately before &lt;/body&gt; tag. Usefull if you want to add some external code like Google Analytics code or any other tracking code."
+msgstr ""
+
+#: D:\AppServ\www\TigerBlog\wp-content\themes\WillPress/functions.php:277
+msgid "Leave blank any field if you don't want it to be shown/displayed."
+msgstr ""
+
+#: D:\AppServ\www\TigerBlog\wp-content\themes\WillPress/functions.php:384
+msgid "Save changes"
+msgstr ""
+
+#: D:\AppServ\www\TigerBlog\wp-content\themes\WillPress/functions.php:464
+#: D:\AppServ\www\TigerBlog\wp-content\themes\WillPress/functions.php:481
+#: D:\AppServ\www\TigerBlog\wp-content\themes\WillPress/functions.php:482
+msgid "Flickr Photos"
+msgstr ""
+
+#: D:\AppServ\www\TigerBlog\wp-content\themes\WillPress/functions.php:471
+#: D:\AppServ\www\TigerBlog\wp-content\themes\WillPress/functions.php:559
+#: D:\AppServ\www\TigerBlog\wp-content\themes\WillPress/functions.php:665
+#: D:\AppServ\www\TigerBlog\wp-content\themes\WillPress/functions.php:816
+msgid "Title"
+msgstr ""
+
+#: D:\AppServ\www\TigerBlog\wp-content\themes\WillPress/functions.php:474
+msgid "Flickr ID"
+msgstr ""
+
+#: D:\AppServ\www\TigerBlog\wp-content\themes\WillPress/functions.php:476
+msgid "How to get Flickr ID"
+msgstr ""
+
+#: D:\AppServ\www\TigerBlog\wp-content\themes\WillPress/functions.php:517
+msgid "No Comments Yet"
+msgstr ""
+
+#: D:\AppServ\www\TigerBlog\wp-content\themes\WillPress/functions.php:550
+#: D:\AppServ\www\TigerBlog\wp-content\themes\WillPress/functions.php:574
+#: D:\AppServ\www\TigerBlog\wp-content\themes\WillPress/functions.php:575
+msgid "Recent Comments"
+msgstr ""
+
+#: D:\AppServ\www\TigerBlog\wp-content\themes\WillPress/functions.php:562
+msgid "Avatar width"
+msgstr ""
+
+#: D:\AppServ\www\TigerBlog\wp-content\themes\WillPress/functions.php:565
+msgid "Excerpt length"
+msgstr ""
+
+#: D:\AppServ\www\TigerBlog\wp-content\themes\WillPress/functions.php:568
+msgid "Number comments"
+msgstr ""
+
+#: D:\AppServ\www\TigerBlog\wp-content\themes\WillPress/functions.php:598
+msgid "comments"
+msgstr ""
+
+#: D:\AppServ\www\TigerBlog\wp-content\themes\WillPress/functions.php:600
+msgid "comment"
+msgstr ""
+
+#: D:\AppServ\www\TigerBlog\wp-content\themes\WillPress/functions.php:602
+msgid "no comment"
+msgstr ""
+
+#: D:\AppServ\www\TigerBlog\wp-content\themes\WillPress/functions.php:668
+msgid "Category ID"
+msgstr ""
+
+#: D:\AppServ\www\TigerBlog\wp-content\themes\WillPress/functions.php:670
+msgid "Leave blank if want to show latest posts in any category"
+msgstr ""
+
+#: D:\AppServ\www\TigerBlog\wp-content\themes\WillPress/functions.php:671
+msgid "Number posts"
+msgstr ""
+
+#: D:\AppServ\www\TigerBlog\wp-content\themes\WillPress/functions.php:674
+msgid "Show thumbnail"
+msgstr ""
+
+#: D:\AppServ\www\TigerBlog\wp-content\themes\WillPress/functions.php:808
+#: D:\AppServ\www\TigerBlog\wp-content\themes\WillPress/functions.php:829
+#: D:\AppServ\www\TigerBlog\wp-content\themes\WillPress/functions.php:830
+msgid "Latest Video"
+msgstr ""
+
+#: D:\AppServ\www\TigerBlog\wp-content\themes\WillPress/functions.php:819
+msgid "Width"
+msgstr ""
+
+#: D:\AppServ\www\TigerBlog\wp-content\themes\WillPress/functions.php:822
+msgid "Height"
+msgstr ""
+
+#: D:\AppServ\www\TigerBlog\wp-content\themes\WillPress/header.php:94
+#: D:\AppServ\www\TigerBlog\wp-content\themes\WillPress/header.php:143
+msgid "Home"
+msgstr ""
+
+#: D:\AppServ\www\TigerBlog\wp-content\themes\WillPress/loop.php:7
+msgid "Archive for the"
+msgstr ""
+
+#: D:\AppServ\www\TigerBlog\wp-content\themes\WillPress/loop.php:7
+msgid "Category"
+msgstr ""
+
+#: D:\AppServ\www\TigerBlog\wp-content\themes\WillPress/loop.php:9
+msgid "Posts Tagged"
+msgstr ""
+
+#: D:\AppServ\www\TigerBlog\wp-content\themes\WillPress/loop.php:11
+#: D:\AppServ\www\TigerBlog\wp-content\themes\WillPress/loop.php:13
+#: D:\AppServ\www\TigerBlog\wp-content\themes\WillPress/loop.php:15
+msgid "Archive for"
+msgstr ""
+
+#: D:\AppServ\www\TigerBlog\wp-content\themes\WillPress/loop.php:17
+msgid "Author Archive"
+msgstr ""
+
+#: D:\AppServ\www\TigerBlog\wp-content\themes\WillPress/loop.php:19
+msgid "Blog Archives"
+msgstr ""
+
+#: D:\AppServ\www\TigerBlog\wp-content\themes\WillPress/loop.php:21
+msgid "Search Results"
+msgstr ""
+
+#: D:\AppServ\www\TigerBlog\wp-content\themes\WillPress/loop.php:30
+#: D:\AppServ\www\TigerBlog\wp-content\themes\WillPress/single.php:106
+msgid "Edit"
+msgstr ""
+
+#: D:\AppServ\www\TigerBlog\wp-content\themes\WillPress/loop.php:37
+msgid "Read More"
+msgstr ""
+
+#: D:\AppServ\www\TigerBlog\wp-content\themes\WillPress/loop.php:53
+#, php-format
+msgid "Sorry, but there aren't any posts in the %s category yet"
+msgstr ""
+
+#: D:\AppServ\www\TigerBlog\wp-content\themes\WillPress/loop.php:55
+msgid "Sorry, but there aren't any posts with this date."
+msgstr ""
+
+#: D:\AppServ\www\TigerBlog\wp-content\themes\WillPress/loop.php:58
+#, php-format
+msgid "Sorry, but there aren't any posts by %s yet.."
+msgstr ""
+
+#: D:\AppServ\www\TigerBlog\wp-content\themes\WillPress/loop.php:60
+msgid "No posts found."
+msgstr ""
+
+#: D:\AppServ\www\TigerBlog\wp-content\themes\WillPress/loop.php:60
+msgid "Sorry, but you are looking for something that isn't here."
+msgstr ""
+
+#: D:\AppServ\www\TigerBlog\wp-content\themes\WillPress/sidebar.php:4
+msgid "Enter keyword to search..."
+msgstr ""
+
+#: D:\AppServ\www\TigerBlog\wp-content\themes\WillPress/sidebar.php:32
+msgid "Most Popular"
+msgstr ""
+
+#: D:\AppServ\www\TigerBlog\wp-content\themes\WillPress/sidebar.php:33
+msgid "Top Rated"
+msgstr ""
+
+#: D:\AppServ\www\TigerBlog\wp-content\themes\WillPress/sidebar.php:34
+msgid "Comments"
+msgstr ""
+
+#: D:\AppServ\www\TigerBlog\wp-content\themes\WillPress/sidebar.php:62
+#: D:\AppServ\www\TigerBlog\wp-content\themes\WillPress/single.php:58
+msgid "Tags"
+msgstr ""
+
+#: D:\AppServ\www\TigerBlog\wp-content\themes\WillPress/sidebar.php:67
+msgid "Calendar"
+msgstr ""
+
+#: D:\AppServ\www\TigerBlog\wp-content\themes\WillPress/single.php:55
+msgid "Pages"
+msgstr ""
+
+#: D:\AppServ\www\TigerBlog\wp-content\themes\WillPress/single.php:57
+msgid "Posted in"
+msgstr ""
+
+#: D:\AppServ\www\TigerBlog\wp-content\themes\WillPress/single.php:66
+msgid "Share with:"
+msgstr ""
+
+#: D:\AppServ\www\TigerBlog\wp-content\themes\WillPress/single.php:92
+msgid "You can"
+msgstr ""
+
+#: D:\AppServ\www\TigerBlog\wp-content\themes\WillPress/single.php:92
+msgid "leave a response"
+msgstr ""
+
+#: D:\AppServ\www\TigerBlog\wp-content\themes\WillPress/single.php:92
+msgid "or"
+msgstr ""
+
+#: D:\AppServ\www\TigerBlog\wp-content\themes\WillPress/single.php:92
+#: D:\AppServ\www\TigerBlog\wp-content\themes\WillPress/single.php:96
+msgid "trackback"
+msgstr ""
+
+#: D:\AppServ\www\TigerBlog\wp-content\themes\WillPress/single.php:92
+#: D:\AppServ\www\TigerBlog\wp-content\themes\WillPress/single.php:96
+msgid "from your own site"
+msgstr ""
+
+#: D:\AppServ\www\TigerBlog\wp-content\themes\WillPress/single.php:96
+msgid "Responses are currently closed, but you can"
+msgstr ""
+
+#: D:\AppServ\www\TigerBlog\wp-content\themes\WillPress/single.php:100
+msgid "You can skip to the end and leave a response. Pinging is currently not allowed."
+msgstr ""
+
+#: D:\AppServ\www\TigerBlog\wp-content\themes\WillPress/single.php:104
+msgid "Both comments and pings are currently closed."
+msgstr ""
+
